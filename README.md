@@ -8,6 +8,8 @@ This code calculates the total future value of investments including several fac
 5) Expected Annual Inflation in percentage
 6) Duration over which the value is calculated
 
+All monthly deposits are after-tax. The total value of the investments is before capital gains tax.
+
 Following are the results for:
 1) Initial amount invested = $0
 2) Monthly investments = $2000
