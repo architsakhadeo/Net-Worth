@@ -16,4 +16,4 @@ Following are the results for:
 5) Expected Annual Inflation in percentage = 2.5%
 6) Duration over which the value is calculated =  20 years
 
-<img src="https://github.com/architsakhadeo/Net-Worth/blob/master/compoundInterestGraph.png?raw=true" width="500">
+<img src="https://github.com/architsakhadeo/Net-Worth/blob/main/compoundInterestGraph.png?raw=true" width="500">
